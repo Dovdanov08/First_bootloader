@@ -1,4 +1,0 @@
-../Core/Src/FlashF446re.c:23:19:flash_control	32	static
-../Core/Src/FlashF446re.c:51:19:Flash_Program_Byte	40	static
-../Core/Src/FlashF446re.c:77:13:ERASE_flash	24	static
-../Core/Src/FlashF446re.c:109:17:GetSector	24	static

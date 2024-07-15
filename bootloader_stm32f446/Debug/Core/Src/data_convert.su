@@ -1,4 +1,0 @@
-../Core/Src/data_convert.c:23:19:symtoDigit	32	static
-../Core/Src/data_convert.c:91:19:crc_cont	24	static
-../Core/Src/data_convert.c:116:19:parsing_data	40	static
-../Core/Src/data_convert.c:183:12:DataConverter	128	static
